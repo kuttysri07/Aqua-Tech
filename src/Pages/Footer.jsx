@@ -19,7 +19,7 @@ const Footer = () => {
                 </span>
 
                 <a
-                  href="tell:+919360247426"
+                  href="tel:+919360247426"
                   className="block text-2xl font-medium text-gray-900 hover:opacity-75 sm:text-3xl dark:text-white"
                 >
                   9360247426
