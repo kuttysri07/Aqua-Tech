@@ -32,7 +32,7 @@ const Product = () => {
     },
     {
       id: 5,
-      name: "Generic 12L RO",
+      name: "Aqua XL",
       description:
         "12L RO + Spun Filter + Pre Carbon Filter + Sediment Filter + Membrane + Post Carbon Filter, 24V 100GPT booster Pump, 24V SMPS Power Supply, Electrical Parts Warranty (1 Year).",
       image: "model5.png",
